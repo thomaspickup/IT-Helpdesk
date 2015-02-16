@@ -1,0 +1,52 @@
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk (V0).exe
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk (V0).pdb
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk (V0).xml
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Resources.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk (V0).exe
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk (V0).xml
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk (V0).pdb
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Form_EmployeeEdit.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Form_Main.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Form_DepartmentEdit.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.EditJobs.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk (V0).exe.config
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Settings.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V0)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk (V0).vbproj.GenerateResource.Cache
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.exe.config
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.exe
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.pdb
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.xml
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Resources.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.exe
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.xml
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.pdb
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmProgress.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmArchivedView.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmDepartment.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmJobs.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmEmployee.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmMain.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmSettings.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmTimeSpent.resources
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\A2\A2 Computing\Comp 4\Computing Project Program\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.exe.config
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.exe
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.xml
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT Helpdesk.pdb
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.exe
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.pdb
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\bin\Debug\IT Helpdesk.xml
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmArchivedView.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmDepartment.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmJobs.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmEmployee.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmMain.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.Resources.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmProgress.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmSettings.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\IT_Helpdesk.frmTimeSpent.resources
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\A2\A2 Computing\Comp 4\IT Helpdesk FINAL\IT Helpdesk (V1)\IT Helpdesk (V0)\obj\x86\Debug\GenerateResource.write.1.tlog
